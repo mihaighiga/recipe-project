@@ -1,0 +1,21 @@
+body {
+    height: 900px;
+    background-color: #e4eff2;
+}
+
+
+.heading {
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #00a1cb;
+
+}
+
+
+
+#link{
+    text-align: center;
+}

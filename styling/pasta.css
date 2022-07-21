@@ -1,0 +1,16 @@
+body {
+    height: 900px;
+    background-color: #e4eff2;
+}
+
+.middle-data{
+height: 50px;
+    text-align: center;
+    color: #00a1cb;
+}
+
+#pastaimg{
+    width: 500px;
+    height: auto;
+}
+

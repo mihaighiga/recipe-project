@@ -1,0 +1,19 @@
+body {
+    height: 900px;
+    background-color: #e4eff2;
+}
+
+
+.middledata {
+    text-align: center;
+    color: #00a1cb;
+    height: 50px;
+}
+
+#chickenimg {
+
+    transform: rotate(270deg);
+    width: 400px;
+    height: auto;
+
+}
